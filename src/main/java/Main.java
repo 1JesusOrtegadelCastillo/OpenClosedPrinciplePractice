@@ -1,7 +1,7 @@
 public class Main {
 
-    public static void main(String[] args){
-        
+    public static void main(String[] args) {
+
         HospitalManagement ERDirector = new HospitalManagement();
 
         Employee pepa = new Nurse(1, "Pepa", "Emergency", true);
